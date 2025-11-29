@@ -1,2 +1,6 @@
 Mock UI - archivo 1
+<<<<<<< HEAD
 Cambio 1 de Carlos en Tarea 1
+=======
+Cambio 1 de Jorge en Tarea 1
+>>>>>>> tarea1-jorge
