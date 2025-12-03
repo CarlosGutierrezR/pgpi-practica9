@@ -1,3 +1,2 @@
 Mock Panel - archivo 1
-Cambio 1 de Carlos en Tarea 2
-Cambio 1 de Jorge en Tarea 2
+Cambio 1 de Carlos en Tarea Como usuario con necesidades especiales, quiero que la interfaz de Tato Matemáticas cumpla criterios de accesibilidad visual y de interacción (WCAG 2.1), para poder utilizar la aplicación sin barreras.
