@@ -54,7 +54,7 @@ Se forzaron conflictos al fusionar cambios de Carlos y Jorge en la misma secció
 
 Ejemplo de conflicto gestionado:
 
-```text
+
 <<<<<<< HEAD
 Cambio 1 de Carlos en Tarea 1
 =======
