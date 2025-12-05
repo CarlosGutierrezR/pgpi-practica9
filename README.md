@@ -110,18 +110,12 @@ KAN-4	Mejorar accesibilidad de la interfaz UI	To Do
 
 Carlos Alberto Gutiérrez Rondón
 
-Data Engineer & Cybersecurity Specialist
-
-Universidad de Granada (UGR)
-
 GitHub: https://github.com/CarlosGutierrezR
 
 Jorge Arley Castaño Rodríguez
-
-Colaborador del proyecto
 
 GitHub: https://github.com/jorgekast18
 
 🏁 Estado del proyecto
 ✔ Versión estable: v1.0.0
-📦 Práctica completada con éxito
+📦 Práctica completada 
